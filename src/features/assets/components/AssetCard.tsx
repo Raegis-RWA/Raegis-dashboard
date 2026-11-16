@@ -1,6 +1,7 @@
 import { formatAmount } from '@/utils/formatting';
 import ComplianceBadge from './ComplianceBadge';
 import TransferEligibilityBadge from './TransferEligibilityBadge';
+import AssetLifecycleBadge from './AssetLifecycleBadge';
 import TransferRestrictionExplainer from '@/features/investor/components/TransferRestrictionExplainer';
 import type { PortfolioAsset } from '@/lib/aegis/types';
 
